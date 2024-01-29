@@ -4,4 +4,18 @@ comment / document code
 
 ## self check
 - program = instruction
-- coding = process 
+- coding = process
+
+
+## creating a new project
+- language : c#
+- forms : windows
+- type : desktop
+- "windows forms app"
+
+## Project details
+- Project: LAB{number}_Lastname
+-   ex. LAB01_Ermino
+- Location : Desktop
+
+
