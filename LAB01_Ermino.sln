@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB01_Ermino", "LAB01_Ermino\LAB01_Ermino.csproj", "{60FEC01B-0C0B-4489-B695-905CC6FFB22F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60FEC01B-0C0B-4489-B695-905CC6FFB22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60FEC01B-0C0B-4489-B695-905CC6FFB22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60FEC01B-0C0B-4489-B695-905CC6FFB22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60FEC01B-0C0B-4489-B695-905CC6FFB22F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C802994-A37C-4AAF-9AC9-555F7B917675}
+	EndGlobalSection
+EndGlobal
