@@ -3,5 +3,5 @@ comment / document code
 
 
 ## self check
-program = instruction
-coding = process 
+- program = instruction
+- coding = process 
