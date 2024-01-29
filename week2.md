@@ -18,4 +18,7 @@ comment / document code
 -   ex. LAB01_Ermino
 - Location : Desktop
 
+## VS window
+- view -> toolbox
+- ctrl + alt + x
 
