@@ -1,0 +1,17 @@
+C:\Users\CCDI_Complab\Desktop\Lab01_Ermino\Lab01_Ermino\bin\Debug\net7.0-windows\Lab01_Ermino.exe
+C:\Users\CCDI_Complab\Desktop\Lab01_Ermino\Lab01_Ermino\bin\Debug\net7.0-windows\Lab01_Ermino.deps.json
+C:\Users\CCDI_Complab\Desktop\Lab01_Ermino\Lab01_Ermino\bin\Debug\net7.0-windows\Lab01_Ermino.runtimeconfig.json
+C:\Users\CCDI_Complab\Desktop\Lab01_Ermino\Lab01_Ermino\bin\Debug\net7.0-windows\Lab01_Ermino.dll
+C:\Users\CCDI_Complab\Desktop\Lab01_Ermino\Lab01_Ermino\bin\Debug\net7.0-windows\Lab01_Ermino.pdb
+C:\Users\CCDI_Complab\Desktop\Lab01_Ermino\Lab01_Ermino\obj\Debug\net7.0-windows\Lab01_Ermino.csproj.AssemblyReference.cache
+C:\Users\CCDI_Complab\Desktop\Lab01_Ermino\Lab01_Ermino\obj\Debug\net7.0-windows\Lab01_Ermino.frmNewStudent.resources
+C:\Users\CCDI_Complab\Desktop\Lab01_Ermino\Lab01_Ermino\obj\Debug\net7.0-windows\Lab01_Ermino.csproj.GenerateResource.cache
+C:\Users\CCDI_Complab\Desktop\Lab01_Ermino\Lab01_Ermino\obj\Debug\net7.0-windows\Lab01_Ermino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCDI_Complab\Desktop\Lab01_Ermino\Lab01_Ermino\obj\Debug\net7.0-windows\Lab01_Ermino.AssemblyInfoInputs.cache
+C:\Users\CCDI_Complab\Desktop\Lab01_Ermino\Lab01_Ermino\obj\Debug\net7.0-windows\Lab01_Ermino.AssemblyInfo.cs
+C:\Users\CCDI_Complab\Desktop\Lab01_Ermino\Lab01_Ermino\obj\Debug\net7.0-windows\Lab01_Ermino.csproj.CoreCompileInputs.cache
+C:\Users\CCDI_Complab\Desktop\Lab01_Ermino\Lab01_Ermino\obj\Debug\net7.0-windows\Lab01_Ermino.dll
+C:\Users\CCDI_Complab\Desktop\Lab01_Ermino\Lab01_Ermino\obj\Debug\net7.0-windows\refint\Lab01_Ermino.dll
+C:\Users\CCDI_Complab\Desktop\Lab01_Ermino\Lab01_Ermino\obj\Debug\net7.0-windows\Lab01_Ermino.pdb
+C:\Users\CCDI_Complab\Desktop\Lab01_Ermino\Lab01_Ermino\obj\Debug\net7.0-windows\Lab01_Ermino.genruntimeconfig.cache
+C:\Users\CCDI_Complab\Desktop\Lab01_Ermino\Lab01_Ermino\obj\Debug\net7.0-windows\ref\Lab01_Ermino.dll
