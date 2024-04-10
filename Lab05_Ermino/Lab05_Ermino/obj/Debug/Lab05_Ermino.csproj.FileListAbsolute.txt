@@ -1,0 +1,20 @@
+C:\Users\CCDI_Complab\Desktop\Lab05_Ermino\Lab05_Ermino\bin\Debug\Lab05_Ermino.exe.config
+C:\Users\CCDI_Complab\Desktop\Lab05_Ermino\Lab05_Ermino\bin\Debug\Lab05_Ermino.exe
+C:\Users\CCDI_Complab\Desktop\Lab05_Ermino\Lab05_Ermino\bin\Debug\Lab05_Ermino.pdb
+C:\Users\CCDI_Complab\Desktop\Lab05_Ermino\Lab05_Ermino\obj\Debug\Lab05_Ermino.csproj.AssemblyReference.cache
+C:\Users\CCDI_Complab\Desktop\Lab05_Ermino\Lab05_Ermino\obj\Debug\Lab05_Ermino.Form1.resources
+C:\Users\CCDI_Complab\Desktop\Lab05_Ermino\Lab05_Ermino\obj\Debug\Lab05_Ermino.Properties.Resources.resources
+C:\Users\CCDI_Complab\Desktop\Lab05_Ermino\Lab05_Ermino\obj\Debug\Lab05_Ermino.csproj.GenerateResource.cache
+C:\Users\CCDI_Complab\Desktop\Lab05_Ermino\Lab05_Ermino\obj\Debug\Lab05_Ermino.csproj.CoreCompileInputs.cache
+C:\Users\CCDI_Complab\Desktop\Lab05_Ermino\Lab05_Ermino\obj\Debug\Lab05_Ermino.exe
+C:\Users\CCDI_Complab\Desktop\Lab05_Ermino\Lab05_Ermino\obj\Debug\Lab05_Ermino.pdb
+C:\Users\mrvin\Desktop\Intermediate Programming Labsheet Program\Lab05_Ermino\Lab05_Ermino\obj\Debug\Lab05_Ermino.csproj.AssemblyReference.cache
+C:\Users\mrvin\Desktop\Intermediate Programming Labsheet Program\Lab05_Ermino\Lab05_Ermino\obj\Debug\Lab05_Ermino.Form1.resources
+C:\Users\mrvin\Desktop\Intermediate Programming Labsheet Program\Lab05_Ermino\Lab05_Ermino\obj\Debug\Lab05_Ermino.Properties.Resources.resources
+C:\Users\mrvin\Desktop\Intermediate Programming Labsheet Program\Lab05_Ermino\Lab05_Ermino\obj\Debug\Lab05_Ermino.csproj.GenerateResource.cache
+C:\Users\mrvin\Desktop\Intermediate Programming Labsheet Program\Lab05_Ermino\Lab05_Ermino\obj\Debug\Lab05_Ermino.csproj.CoreCompileInputs.cache
+C:\Users\mrvin\Desktop\Intermediate Programming Labsheet Program\Lab05_Ermino\Lab05_Ermino\obj\Debug\Lab05_Ermino.exe
+C:\Users\mrvin\Desktop\Intermediate Programming Labsheet Program\Lab05_Ermino\Lab05_Ermino\obj\Debug\Lab05_Ermino.pdb
+C:\Users\mrvin\Desktop\Intermediate Programming Labsheet Program\Lab05_Ermino\Lab05_Ermino\bin\Debug\Lab05_Ermino.exe.config
+C:\Users\mrvin\Desktop\Intermediate Programming Labsheet Program\Lab05_Ermino\Lab05_Ermino\bin\Debug\Lab05_Ermino.exe
+C:\Users\mrvin\Desktop\Intermediate Programming Labsheet Program\Lab05_Ermino\Lab05_Ermino\bin\Debug\Lab05_Ermino.pdb
