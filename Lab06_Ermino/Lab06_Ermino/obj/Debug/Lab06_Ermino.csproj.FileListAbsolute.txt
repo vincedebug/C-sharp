@@ -1,0 +1,10 @@
+C:\Users\mrvin\source\repos\Lab06_Ermino\Lab06_Ermino\bin\Debug\Lab06_Ermino.exe.config
+C:\Users\mrvin\source\repos\Lab06_Ermino\Lab06_Ermino\bin\Debug\Lab06_Ermino.exe
+C:\Users\mrvin\source\repos\Lab06_Ermino\Lab06_Ermino\bin\Debug\Lab06_Ermino.pdb
+C:\Users\mrvin\source\repos\Lab06_Ermino\Lab06_Ermino\obj\Debug\Lab06_Ermino.csproj.AssemblyReference.cache
+C:\Users\mrvin\source\repos\Lab06_Ermino\Lab06_Ermino\obj\Debug\Lab06_Ermino.Form1.resources
+C:\Users\mrvin\source\repos\Lab06_Ermino\Lab06_Ermino\obj\Debug\Lab06_Ermino.Properties.Resources.resources
+C:\Users\mrvin\source\repos\Lab06_Ermino\Lab06_Ermino\obj\Debug\Lab06_Ermino.csproj.GenerateResource.cache
+C:\Users\mrvin\source\repos\Lab06_Ermino\Lab06_Ermino\obj\Debug\Lab06_Ermino.csproj.CoreCompileInputs.cache
+C:\Users\mrvin\source\repos\Lab06_Ermino\Lab06_Ermino\obj\Debug\Lab06_Ermino.exe
+C:\Users\mrvin\source\repos\Lab06_Ermino\Lab06_Ermino\obj\Debug\Lab06_Ermino.pdb
