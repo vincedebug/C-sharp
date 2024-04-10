@@ -1,0 +1,16 @@
+C:\Users\mrvin\source\repos\Lab03_Ermino\Lab03_Ermino\bin\Debug\net8.0-windows\Lab03_Ermino.exe
+C:\Users\mrvin\source\repos\Lab03_Ermino\Lab03_Ermino\bin\Debug\net8.0-windows\Lab03_Ermino.deps.json
+C:\Users\mrvin\source\repos\Lab03_Ermino\Lab03_Ermino\bin\Debug\net8.0-windows\Lab03_Ermino.runtimeconfig.json
+C:\Users\mrvin\source\repos\Lab03_Ermino\Lab03_Ermino\bin\Debug\net8.0-windows\Lab03_Ermino.dll
+C:\Users\mrvin\source\repos\Lab03_Ermino\Lab03_Ermino\bin\Debug\net8.0-windows\Lab03_Ermino.pdb
+C:\Users\mrvin\source\repos\Lab03_Ermino\Lab03_Ermino\obj\Debug\net8.0-windows\Lab03_Ermino.csproj.GenerateResource.cache
+C:\Users\mrvin\source\repos\Lab03_Ermino\Lab03_Ermino\obj\Debug\net8.0-windows\Lab03_Ermino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrvin\source\repos\Lab03_Ermino\Lab03_Ermino\obj\Debug\net8.0-windows\Lab03_Ermino.AssemblyInfoInputs.cache
+C:\Users\mrvin\source\repos\Lab03_Ermino\Lab03_Ermino\obj\Debug\net8.0-windows\Lab03_Ermino.AssemblyInfo.cs
+C:\Users\mrvin\source\repos\Lab03_Ermino\Lab03_Ermino\obj\Debug\net8.0-windows\Lab03_Ermino.csproj.CoreCompileInputs.cache
+C:\Users\mrvin\source\repos\Lab03_Ermino\Lab03_Ermino\obj\Debug\net8.0-windows\Lab03_Ermino.dll
+C:\Users\mrvin\source\repos\Lab03_Ermino\Lab03_Ermino\obj\Debug\net8.0-windows\refint\Lab03_Ermino.dll
+C:\Users\mrvin\source\repos\Lab03_Ermino\Lab03_Ermino\obj\Debug\net8.0-windows\Lab03_Ermino.pdb
+C:\Users\mrvin\source\repos\Lab03_Ermino\Lab03_Ermino\obj\Debug\net8.0-windows\Lab03_Ermino.genruntimeconfig.cache
+C:\Users\mrvin\source\repos\Lab03_Ermino\Lab03_Ermino\obj\Debug\net8.0-windows\ref\Lab03_Ermino.dll
+C:\Users\mrvin\source\repos\Lab03_Ermino\Lab03_Ermino\obj\Debug\net8.0-windows\Lab03_Ermino.lotCalculatorForm.resources
