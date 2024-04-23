@@ -1,0 +1,20 @@
+C:\Users\CCDI_Complab\Documents\Lab09_Ermino\Lab09_Ermino\bin\Debug\Lab09_Ermino.exe.config
+C:\Users\CCDI_Complab\Documents\Lab09_Ermino\Lab09_Ermino\bin\Debug\Lab09_Ermino.exe
+C:\Users\CCDI_Complab\Documents\Lab09_Ermino\Lab09_Ermino\bin\Debug\Lab09_Ermino.pdb
+C:\Users\CCDI_Complab\Documents\Lab09_Ermino\Lab09_Ermino\obj\Debug\Lab09_Ermino.csproj.AssemblyReference.cache
+C:\Users\CCDI_Complab\Documents\Lab09_Ermino\Lab09_Ermino\obj\Debug\Lab09_Ermino.Form1.resources
+C:\Users\CCDI_Complab\Documents\Lab09_Ermino\Lab09_Ermino\obj\Debug\Lab09_Ermino.Properties.Resources.resources
+C:\Users\CCDI_Complab\Documents\Lab09_Ermino\Lab09_Ermino\obj\Debug\Lab09_Ermino.csproj.GenerateResource.cache
+C:\Users\CCDI_Complab\Documents\Lab09_Ermino\Lab09_Ermino\obj\Debug\Lab09_Ermino.csproj.CoreCompileInputs.cache
+C:\Users\CCDI_Complab\Documents\Lab09_Ermino\Lab09_Ermino\obj\Debug\Lab09_Ermino.exe
+C:\Users\CCDI_Complab\Documents\Lab09_Ermino\Lab09_Ermino\obj\Debug\Lab09_Ermino.pdb
+G:\My Drive\ccdiComputerScience\BSCS 1 2nd sem\Intermediate Programming\Lab\Lab09_Ermino\Lab09_Ermino\bin\Debug\Lab09_Ermino.exe.config
+G:\My Drive\ccdiComputerScience\BSCS 1 2nd sem\Intermediate Programming\Lab\Lab09_Ermino\Lab09_Ermino\bin\Debug\Lab09_Ermino.exe
+G:\My Drive\ccdiComputerScience\BSCS 1 2nd sem\Intermediate Programming\Lab\Lab09_Ermino\Lab09_Ermino\bin\Debug\Lab09_Ermino.pdb
+G:\My Drive\ccdiComputerScience\BSCS 1 2nd sem\Intermediate Programming\Lab\Lab09_Ermino\Lab09_Ermino\obj\Debug\Lab09_Ermino.csproj.AssemblyReference.cache
+G:\My Drive\ccdiComputerScience\BSCS 1 2nd sem\Intermediate Programming\Lab\Lab09_Ermino\Lab09_Ermino\obj\Debug\Lab09_Ermino.Form1.resources
+G:\My Drive\ccdiComputerScience\BSCS 1 2nd sem\Intermediate Programming\Lab\Lab09_Ermino\Lab09_Ermino\obj\Debug\Lab09_Ermino.Properties.Resources.resources
+G:\My Drive\ccdiComputerScience\BSCS 1 2nd sem\Intermediate Programming\Lab\Lab09_Ermino\Lab09_Ermino\obj\Debug\Lab09_Ermino.csproj.GenerateResource.cache
+G:\My Drive\ccdiComputerScience\BSCS 1 2nd sem\Intermediate Programming\Lab\Lab09_Ermino\Lab09_Ermino\obj\Debug\Lab09_Ermino.csproj.CoreCompileInputs.cache
+G:\My Drive\ccdiComputerScience\BSCS 1 2nd sem\Intermediate Programming\Lab\Lab09_Ermino\Lab09_Ermino\obj\Debug\Lab09_Ermino.exe
+G:\My Drive\ccdiComputerScience\BSCS 1 2nd sem\Intermediate Programming\Lab\Lab09_Ermino\Lab09_Ermino\obj\Debug\Lab09_Ermino.pdb
