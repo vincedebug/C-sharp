@@ -12,9 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\COMPLAB\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\COMPLAB\\.nuget\\packages",
-      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      "C:\\Users\\mrvin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mrvin\\.nuget\\packages"
     ],
     "configProperties": {
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,

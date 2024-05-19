@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab02_Ermino")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68bb27f61ecd326d142ace9ee7643c6babc89020")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d66cad22c3e1b38b12890c02179c3e2d09b51ef5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab02_Ermino")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab02_Ermino")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

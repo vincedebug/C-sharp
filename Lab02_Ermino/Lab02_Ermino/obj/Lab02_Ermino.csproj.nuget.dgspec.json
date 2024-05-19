@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\COMPLAB\\Desktop\\C-sharp\\Lab02_Ermino\\Lab02_Ermino\\Lab02_Ermino.csproj": {}
+    "C:\\Users\\mrvin\\Desktop\\C-sharp\\Lab02_Ermino\\Lab02_Ermino\\Lab02_Ermino.csproj": {}
   },
   "projects": {
-    "C:\\Users\\COMPLAB\\Desktop\\C-sharp\\Lab02_Ermino\\Lab02_Ermino\\Lab02_Ermino.csproj": {
+    "C:\\Users\\mrvin\\Desktop\\C-sharp\\Lab02_Ermino\\Lab02_Ermino\\Lab02_Ermino.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\COMPLAB\\Desktop\\C-sharp\\Lab02_Ermino\\Lab02_Ermino\\Lab02_Ermino.csproj",
+        "projectUniqueName": "C:\\Users\\mrvin\\Desktop\\C-sharp\\Lab02_Ermino\\Lab02_Ermino\\Lab02_Ermino.csproj",
         "projectName": "Lab02_Ermino",
-        "projectPath": "C:\\Users\\COMPLAB\\Desktop\\C-sharp\\Lab02_Ermino\\Lab02_Ermino\\Lab02_Ermino.csproj",
-        "packagesPath": "C:\\Users\\COMPLAB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\COMPLAB\\Desktop\\C-sharp\\Lab02_Ermino\\Lab02_Ermino\\obj\\",
+        "projectPath": "C:\\Users\\mrvin\\Desktop\\C-sharp\\Lab02_Ermino\\Lab02_Ermino\\Lab02_Ermino.csproj",
+        "packagesPath": "C:\\Users\\mrvin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mrvin\\Desktop\\C-sharp\\Lab02_Ermino\\Lab02_Ermino\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\COMPLAB\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\mrvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
